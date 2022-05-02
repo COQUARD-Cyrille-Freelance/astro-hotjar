@@ -1,12 +1,18 @@
 {
   "name": "astro-hotjar",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "1.0.1",
+  "description": "Hotjar component for Astro",
+  "type": "module",
+  "exports": "./src/index.js",
+  "author": "COQUARD Cyrille <coquardcyr@gmail.com>",
+  "keywords": [
+    "astro-component",
+    "analytics",
+    "hotjar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/COQUARD-Cyrille-Freelance/astro-hotjar.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
