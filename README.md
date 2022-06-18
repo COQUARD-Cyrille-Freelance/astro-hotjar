@@ -15,6 +15,6 @@ import { Hotjar } from 'astro-hotjar';
 ```
 
 ```html
-<Hotjar id="a1a4z5d6" version="6" />
+<Hotjar id="a1a4z5d6" />
 ```
 # astro-hotjar
